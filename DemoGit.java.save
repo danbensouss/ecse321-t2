@@ -1,0 +1,8 @@
+public classDemoGit {
+	
+	public static void main(String[] args) {
+		system.out.println("Hello Class. This is a Demo program");
+		int abc = division_method(32,4);
+		system.out.println(abc);
+
+	}
